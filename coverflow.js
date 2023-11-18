@@ -104,10 +104,10 @@ function coverflowimages(options){
 coverflowimages({
 	coverid: 'coverflow1',
 	images: [
-						['angelinasmall.jpg', 'angelina.jpg', 'Angelina Jolie, is an American actress and filmmaker, and an Academy Award winner'],
-						['millasmall.jpg', 'milla.jpg', 'Milla Jovovich was born in Ukraine and immigrated with her parents to the United States when she\'s five.'],
-						['josiesmall.jpg', 'josie.jpg'],
-						['haydensmall.jpg', 'hayden.jpg', 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
-						['ashleysmall.jpg', 'ashley.jpg', 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker'] // <-- no comma after last image
+						['https://github.com/Ticollo/collinsimages.github.io/blob/main/pic1.jpg?raw=true'],
+						['https://github.com/Ticollo/collinsimages.github.io/blob/main/pic1.jpg?raw=true'],
+						['https://github.com/Ticollo/collinsimages.github.io/blob/main/pic1.jpg?raw=true'],
+						['https://github.com/Ticollo/collinsimages.github.io/blob/main/pic1.jpg?raw=true'],
+						['https://github.com/Ticollo/collinsimages.github.io/blob/main/pic1.jpg?raw=true'] // <-- no comma after last image
 					] // <-- no comma after last option
 })
